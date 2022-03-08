@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75352438/133910287-f2dc0bf3-0889-4f65-b46e-b7e700d20d62.gif" />
-</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishant</h1>
-<h3 align="center">Android developer from India</h3>
+<h3 align="center">Android developer</h3>
    🙋‍♂️ About Me
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
