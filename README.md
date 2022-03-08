@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **imreprisal@gmail.com**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **I play chess.**
 
 
 🚀 Languages and Tools:
